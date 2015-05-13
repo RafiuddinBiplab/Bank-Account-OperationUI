@@ -1,0 +1,15 @@
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csprojResolveAssemblyReference.cache
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.bankAccountForm.resources
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.GenerateResource.Cache
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+F:\Batch_04_SEIP_Shsihir\Self Work\Class12\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+C:\Users\Web App Develop .Net\Desktop\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+C:\Users\Web App Develop .Net\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\Web App Develop .Net\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+C:\Users\Web App Develop .Net\Desktop\13-05-2015(12 no.Class)\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe.config
+C:\Users\Web App Develop .Net\Desktop\13-05-2015(12 no.Class)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\Web App Develop .Net\Desktop\13-05-2015(12 no.Class)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
